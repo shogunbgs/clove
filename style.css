@@ -1,0 +1,37 @@
+h1
+{
+    text-align: center;
+    text-shadow: 6px 6px 0px rgba(0, 0, 0);
+    text-decoration: underline;
+
+}
+h3
+{
+    text-decoration: underline;
+
+}
+p
+{
+font-size: 1.5em;text-align: justify;
+}
+img
+{
+   border-style: double; filter:drop-shadow(16px 16px 10px black);
+}
+.zoom {
+height:400px;
+margin:auto;
+}
+
+.zoom img {
+width:400px;
+height:300px;opacity: 0.3;border-radius: 30px;
+}
+.zoom img:hover {
+    width:500px;
+height:400px;opacity: 1;text-align: center;
+}
+body {
+background: #AE34C9;
+background: radial-gradient(circle, rgba(174, 52, 201, 1) 2%, rgba(173, 53, 201, 1) 5%, rgba(169, 69, 191, 1) 11%, rgba(174, 52, 201, 1) 19%, rgba(172, 55, 200, 1) 19%, rgba(167, 64, 195, 1) 21%, rgba(173, 76, 199, 1) 24%, rgba(164, 72, 188, 1) 28%, rgba(159, 70, 183, 1) 30%, rgba(99, 25, 99, 1) 94%, rgba(107, 96, 107, 1) 98%, rgba(0, 0, 0, 1) 100%, rgba(135, 135, 148, 1) 100%, rgba(208, 23, 232, 1) 100%);
+}
