@@ -1,1 +1,0 @@
-# shogun.bgs.github.io
